@@ -1,0 +1,10 @@
+Parameter:,Value:
+Total CPU time,             1.0625000000
+Number of spatial steps,   100
+Number of time steps,  7500
+Start time,             0.0000000000
+Final time,          7500.0000000000
+Timestep,             1.0000000000
+Spatial step,           100.0000000000
+Parameter case,         0
+Total length,         10000.0000000000
